@@ -1,4 +1,3 @@
-```md
 # 🪑 워너 싯다운 (Wanna Sitdown)
 > ** "단순 혼잡도 조회를 넘어, 목적지까지 앉아갈 확률이 가장 높은 지하철 칸을 추천합니다."**
 
@@ -6,9 +5,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot)
 ![Oracle](https://img.shields.io/badge/Oracle-11g-F80000?logo=oracle)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
-```
 
-```md
+
 ## 📌 1. 프로젝트 개요 (Overview)
 기존 대중교통 앱은 탑승 시점의 단편적인 실시간 혼잡도만 제공합니다.
 **워너 싯다운(가제)**은 출발역부터 목적지까지의 **전체 이동 구간 승객 흐름(역별 시간대 승하차 통계)**을 시뮬레이션하여, 목적지에 도착하기 전 좌석을 확보할 가능성이 가장 높은 차량(칸)을 전략적으로 추천하는 1인 풀스택 프로젝트 입니다.
